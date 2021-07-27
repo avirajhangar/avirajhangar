@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aviraj
+- 👀 I’m interested in games and coding
+- 🌱 I’m currently learning react and nextjs
